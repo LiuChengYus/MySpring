@@ -5,12 +5,12 @@ package cn.happy.freemarker1008_01;
  */
 public class User {
     private String name;
-    private Integer age;
-    public User(){
+    private String age;
 
+    public User() {
     }
 
-    public User(String name, Integer age) {
+    public User(String name, String age) {
         this.name = name;
         this.age = age;
     }
@@ -23,11 +23,11 @@ public class User {
         this.name = name;
     }
 
-    public Integer getAge() {
+    public String getAge() {
         return age;
     }
 
-    public void setAge(Integer age) {
+    public void setAge(String age) {
         this.age = age;
     }
 }

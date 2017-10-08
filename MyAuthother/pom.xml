@@ -38,14 +38,19 @@
         <artifactId>spring-context</artifactId>
         <version>4.3.9.RELEASE</version>
     </dependency>
-
         <!--foree marker-->
         <dependency>
             <groupId>org.freemarker</groupId>
             <artifactId>freemarker</artifactId>
             <version>2.3.23</version>
         </dependency>
-
+    <!--servlet-->
+        <dependency>
+            <groupId>javax.servlet</groupId>
+            <artifactId>servlet-api</artifactId>
+            <version>2.5</version>
+            <scope>provided</scope>
+        </dependency>
 
 
     </dependencies>
