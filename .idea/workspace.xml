@@ -1,0 +1,2132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="537e9ae2-3eda-4091-b224-9e5e078eeeee" name="Default" comment="9">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/images/login_bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/back.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/cancel.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/cut.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/edit_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/edit_remove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/filesave.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/help.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/mini_add.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/mini_edit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/mini_refresh.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/no.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/ok.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/pencil.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/print.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/redo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/reload.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/sum.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/tip.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icons/undo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/Thumbs.db" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/accordion_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/calendar_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/combo_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/datagrid_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/datebox_arrow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/layout_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/linkbutton_bg.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/loading.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/menu_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/messager_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/pagination_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/panel_tools.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/searchbox_button.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/slider_handle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/spinner_arrows.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/tabs_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/tree_icons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/images/validatebox_warning.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/apply.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/check.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/daiban.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/definition.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/deploy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/exit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/flow.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/flowM.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/home.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/item.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/lishi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/modifyPassword.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/power.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/reset.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/review.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/role.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/submit.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/system.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/task.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/yewu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/usericons/yiban.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/01SpringBeans_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/01SpringBeans_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyAOP_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyAOP_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyAjax_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyAjax_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyAuthother_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MyAuthother_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MySpring_war.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/MySpring_war_exploded.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aspectj_aspectjrt_1_5_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_10.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_2_2.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_10_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_9_RELEASE.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/01SpringBeans.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930/aop/LoggerBeforeAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930/dao/IUserDao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930/dao/UserDaoImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930/entity/User.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930/service/IUserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930/service/UserServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930_01/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930_01/MyCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930_01/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930_02/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930_02/LittelCar.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930_02/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006_1/ProxySubject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006_1/RealSubject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006_1/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006_2/IUserDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006_2/UserDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006_3/UserService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006afteraop_2/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006afteraop_2/MyAfterReturningAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006afteraop_2/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aop_1/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aop_1/MyBeforeAdvice2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aop_1/MybeforeAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aop_1/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_05/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_05/MybeforeAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_05/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_06/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_06/MybeforeAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_06/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_07/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_07/MyAfterReturningAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_07/MybeforeAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_07/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_08/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_08/MyAfterReturningAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_08/MybeforeAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_08/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aspectj/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aspectj/MyAspectj.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aspectj/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/springmethodinterceptor1006aop_3/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/springmethodinterceptor1006aop_3/MyMethodInterceptor.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/springmethodinterceptor1006aop_3/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/springthrow1006_04/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/springthrow1006_04/MyThrowsAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/springthrow1006_04/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContext.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContextestspringaopafter02.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContextestspringaopintecrptor03.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContextestspringaopthrows04.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestCollection.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestXmlDl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestXmlspringAnnotabiondl.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaop01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor05.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor06.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor07.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor08.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor09.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/login.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/main.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/audit_bz.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/audit_ld.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/authManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/currentView.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/daibanManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/deployManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/groupManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/leaveManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/lishiManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/processDefinitionManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/userManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/page/yibanManage.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/changelog.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/accordion/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/accordion/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/accordion/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/accordion/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/accordion/datagrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/accordion/tools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/calendar/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/calendar/firstday.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combo/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/combobox_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/customformat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/dynamicdata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/remotedata.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combobox/remotejsonp.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combogrid/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combogrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combogrid/datagrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combogrid/initvalue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combogrid/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combogrid/navigation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combotree/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combotree/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combotree/initvalue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combotree/multiple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/combotree/tree_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/aligncolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/cellstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/clientpagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/columngroup.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/complextoolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/contextmenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/custompager.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/datagrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/datagrid_data2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/formatcolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/frozencolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/frozenrows.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/mergecells.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/products.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/rowborder.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/rowediting.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/rowstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/selection.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/simpletoolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datagrid/transform.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datebox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datebox/dateformat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datebox/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datebox/validate.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datetimebox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datetimebox/initvalue.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/datetimebox/showseconds.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/demo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/dialog/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/dialog/complextoolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/dialog/toolbarbuttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/draggable/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/draggable/constain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/draggable/snap.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/droppable/accept.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/droppable/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/droppable/sort.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/easyloader/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/form/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/form/form_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/form/load.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/addremove.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/complex.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/datagrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/full.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/nestedlayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/nocollapsible.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/propertygrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/layout/tree_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/linkbutton/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/linkbutton/group.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/linkbutton/iconalign.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/linkbutton/plain.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/linkbutton/toggle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/menu/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/menu/customitem.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/menu/events.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/menubutton/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/menubutton/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/messager/alert.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/messager/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/messager/interactive.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/messager/position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/numberbox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/numberbox/format.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/numberbox/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/numberspinner/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/numberspinner/increment.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/numberspinner/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/pagination/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/pagination/custombuttons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/pagination/simple.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/panel/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/panel/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/panel/customtools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/panel/loadcontent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/panel/nestedpanel.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/panel/paneltools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/progressbar/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/propertygrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/propertygrid/customcolumns.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/propertygrid/groupformat.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/propertygrid/propertygrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/resizable/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/searchbox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/searchbox/category.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/slider/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/slider/formattip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/slider/rule.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/slider/vertical.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/splitbutton/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/splitbutton/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/autoheight.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/hover.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/nestedtabs.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/striptools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/tabposition.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/tabstools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tabs/tree_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/timespinner/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/timespinner/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/timespinner/range.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/_content.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/_dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/ajax.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/customcontent.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/customstyle.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/position.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/toolbar.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tooltip/tooltipdialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/animation.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/checkbox.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/contextmenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/dnd.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/editable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/icons.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/lines.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/tree_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/tree/tree_data2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/actions.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/clientpagination.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/contextmenu.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/editable.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/footer.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/reports.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/treegrid_data1.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/treegrid_data2.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/treegrid/treegrid_data3.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/validatebox/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/validatebox/customtooltip.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/window/basic.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/window/customtools.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/window/inlinewindow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/window/modalwindow.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/demo/window/windowlayout.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/easyloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/jquery.easyui.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/jquery.edatagrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/licence_gpl.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/license_commercial.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-af.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-bg.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-cz.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-en.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-pt_BR.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-sv_SE.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-zh_CN.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/locale/easyui-lang-zh_TW.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.combo.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.combobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.combogrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.combotree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.datagrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.datebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.datetimebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.dialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.linkbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.menubutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.messager.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.numberbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.numberspinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.panel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.propertygrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.searchbox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.spinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.splitbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.timespinner.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.tooltip.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.tree.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.treegrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.validatebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/plugins/jquery.window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/readme.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/easyloader.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.accordion.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.calendar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.combobox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.datebox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.draggable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.droppable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.form.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.linkbutton.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.menu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.progressbar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.propertygrid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.resizable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.tabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/src/jquery.window.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/black/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/bootstrap/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/default/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/gray/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/icon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/accordion.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/calendar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/combo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/combobox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/datagrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/datebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/easyui.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/layout.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/linkbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/menu.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/menubutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/messager.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/pagination.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/panel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/progressbar.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/propertygrid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/searchbox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/slider.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/spinner.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/splitbutton.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/tabs.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/tooltip.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/validatebox.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/main/webapp/static/jquery-easyui-1.3.3/themes/metro/window.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/test/Test20170930.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/test/Test20170930Annother_02.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/test/Test20170930Collection_01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/test/Test20170930_01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/01SpringBeans/src/test/Test20171006Subject_01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/MyAOP.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/ISomeDAO.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/MyAfterAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/MyBeforeAdvice.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/SomeDAOImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/SomeServiceImpl.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_02/MyCollection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_02/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_03/Car.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_03/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_02.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_03.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAOP/src/test/cn/happy/test/Test2017年10月7日14点16分_01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/MyAjax.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/src/main/java/cn/happy/entity/Book.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/src/main/java/cn/happy/entity/OneAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/src/main/java/cn/happy/entity/OneClass.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/src/main/java/cn/happy/servlet/FirstServlet.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/src/main/webapp/js/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAjax/src/test/cn/happy/text/MyTest201710517点36分.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/MyAuthother.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_01/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/MyAspectj.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_03/ISomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_03/MyAspectj.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_03/SomeService.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_01.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_02.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_03.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/main/webapp/index.jsp" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MyAuthother/src/test/cn/happy/test/MyTest1007_01.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/MySpring.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/index.jsp" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/01SpringBeans/target/" />
+    <ignored path="$PROJECT_DIR$/MyAjax/target/" />
+    <ignored path="$PROJECT_DIR$/MyAuthother/target/" />
+    <ignored path="$PROJECT_DIR$/MyAOP/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="HierarchyBrowserManager">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_05/ISomeService.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_05/SomeService.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor05.xml" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_06/ISomeService.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor06.xml" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_07/ISomeService.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_07/SomeService.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_07/MybeforeAdvice.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_07/MyAfterReturningAdvice.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor07.xml" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aopadvisor_08/MyAfterReturningAdvice.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor08.xml" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor09.xml" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aspectj/ISomeService.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aspectj/SomeService.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/test/Test20171006Subject_01.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aspectj/MyAspectj.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aop_1/MyBeforeAdvice2.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930_02/Student.java" />
+        <option value="$PROJECT_DIR$/01SpringBeans/pom.xml" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_01" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_01.xml" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_01/Student.java" />
+        <option value="$PROJECT_DIR$/MyAuthother/pom.xml" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/MyAspect.java" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_02.xml" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/ISomeService.java" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/MyAspectj.java" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/SomeService.java" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_03/SomeService.java" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/test/cn/happy/test/MyTest1007_01.java" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_03/MyAspectj.java" />
+        <option value="$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_03.xml" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/dao.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/doSomeDAo.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/IdoSomeDAo.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/doSomeDAOImpl.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/IdoSomeService.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/doSomeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/MyAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/MyBeforeAdvice.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/SomeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/MyAfterAdvice.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_01.xml" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_02/Student.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_02.xml" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_02/MyCollection.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_03/Car.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_03/Student.java" />
+        <option value="$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_03.xml" />
+        <option value="$PROJECT_DIR$/MyAOP/src/test/cn/happy/test/Test2017年10月7日14点16分_01.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\mavon\repository" />
+        <option name="userSettingsFile" value="E:\mavon\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MySpring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MySpring" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\MySpring\MyAOP\src\main\resources" />
+      <recent name="E:\MySpring\MyAuthother\src\main\resources" />
+      <recent name="E:\MySpring\MyAuthother\src\main\java\cn\happy\spring1007_03" />
+      <recent name="E:\MySpring\01SpringBeans\src\main\resources" />
+      <recent name="E:\MySpring\01SpringBeans\src\main\java\cn\happy\spring1006aspectj" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.happy.spring1006aopadvisor_07" />
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.happy.spring0930_01" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.Test2017年10月7日14点16分_01.test05">
+    <configuration default="false" name="Test2017年10月7日14点16分_01.test01" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.happy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyAOP" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.happy.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.happy.test.Test2017年10月7日14点16分_01" />
+      <option name="METHOD_NAME" value="test01" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test2017年10月7日14点16分_01.test02" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.happy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyAOP" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.happy.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.happy.test.Test2017年10月7日14点16分_01" />
+      <option name="METHOD_NAME" value="test02" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test2017年10月7日14点16分_01.test03" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.happy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyAOP" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.happy.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.happy.test.Test2017年10月7日14点16分_01" />
+      <option name="METHOD_NAME" value="test03" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test2017年10月7日14点16分_01.test04" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.happy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyAOP" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.happy.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.happy.test.Test2017年10月7日14点16分_01" />
+      <option name="METHOD_NAME" value="test04" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="Test2017年10月7日14点16分_01.test05" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="cn.happy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MyAOP" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="cn.happy.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.happy.test.Test2017年10月7日14点16分_01" />
+      <option name="METHOD_NAME" value="test05" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings />
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="FlashPlayerDebugger.exe" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="MySpring" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Tomcat 7" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.79" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
+      <option name="UPDATE_CLASSES_ON_FRAME_DEACTIVATION" value="true" />
+      <deployment>
+        <artifact name="MyAjax:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_MySpring" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="11446" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="MyAjax:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Tomcat Server.Tomcat 7" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test01" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test02" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test03" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test04" />
+      <item index="5" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test05" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test05" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test04" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test03" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test02" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.Test2017年10月7日14点16分_01.test01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="537e9ae2-3eda-4091-b224-9e5e078eeeee" name="Default" comment="" />
+      <created>1506735128326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1506735128326</updated>
+      <workItem from="1506735134862" duration="16328000" />
+      <workItem from="1506857610157" duration="667000" />
+      <workItem from="1507163554752" duration="11458000" />
+      <workItem from="1507188442476" duration="4079000" />
+      <workItem from="1507285014970" duration="13424000" />
+      <workItem from="1507338403442" duration="9237000" />
+      <workItem from="1507354229741" duration="9003000" />
+      <workItem from="1507421893444" duration="3227000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Test2017年10月7日14点16分_01_test03 - 2017.10.07 at 16h 44m 59s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test03 - 2017.10.07 at 16h 45m 16s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test03" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test04 - 2017.10.07 at 17h 28m 28s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test04 - 2017.10.07 at 17h 28m 47s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test04 - 2017.10.07 at 17h 29m 13s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test04" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test05 - 2017.10.07 at 17h 37m 04s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test05" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test05 - 2017.10.07 at 17h 37m 20s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test05" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test05 - 2017.10.07 at 17h 37m 29s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test05" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test05 - 2017.10.07 at 17h 38m 17s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test05" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="Test2017年10月7日14点16分_01_test05 - 2017.10.07 at 17h 38m 40s.xml">
+      <configuration name="Test2017年10月7日14点16分_01.test05" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="67423000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329653" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39905363" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.35074627" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25256222" sideWeight="0.49052134" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23133236" sideWeight="0.5094787" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37554905" sideWeight="0.5" order="9" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.01104101" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="9" />
+    <option name="LAST_COMMIT_MESSAGE" value="9" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="6" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006_2/UserDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring0930_02/LittelCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aop_1/MybeforeAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="57" lean-forward="false" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/test/Test20171006Subject_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="249">
+          <caret line="131" column="95" lean-forward="true" selection-start-line="130" selection-start-column="23" selection-end-line="131" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestXmlDl.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/test/Test20170930.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="13" column="26" lean-forward="false" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_01.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_01/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="10" column="18" lean-forward="false" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/java/cn/happy/spring1006aspectj/MyAspectj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-325">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaopadvisor09.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="25" lean-forward="false" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/ISomeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/SomeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="21" column="17" lean-forward="false" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_02/MyAspectj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="32" column="23" lean-forward="true" selection-start-line="32" selection-start-column="23" selection-end-line="32" selection-end-column="23" />
+          <folding>
+            <element signature="e#585#586#0" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+            <element signature="e#710#711#0" expanded="false" />
+            <element signature="e#754#755#0" expanded="false" />
+            <element signature="e#825#826#0" expanded="false" />
+            <element signature="e#866#867#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_02.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_03/SomeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="21" column="37" lean-forward="false" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_03/ISomeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/test/cn/happy/test/MyTest1007_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/ISomeDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/ISomeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="39" column="17" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="39" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="38" column="21" lean-forward="false" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/MyBeforeAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="46" lean-forward="false" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/SomeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="30" lean-forward="false" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#220#221#0" expanded="true" />
+            <element signature="e#278#279#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#348#349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/SomeDAOImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="22" lean-forward="false" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#140#141#0" expanded="false" />
+            <element signature="e#201#202#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContextestspringaopintecrptor03.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="19" column="30" lean-forward="true" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContextestspringaopafter02.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-300">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContextestspringaopthrows04.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-329">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestCollection.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-104">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/01SpringBeans/src/main/resources/applicationContexttestspringaop01.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="19" column="28" lean-forward="false" selection-start-line="19" selection-start-column="28" selection-end-line="19" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_02/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_01/MyAfterAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="11" column="36" lean-forward="false" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/mavon/repository/org/springframework/spring-context/4.3.9.RELEASE/spring-context-4.3.9.RELEASE.jar!/org/springframework/context/ConfigurableApplicationContext.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="17" column="17" lean-forward="false" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/mavon/repository/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="14" column="56" lean-forward="false" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/mavon/repository/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/config/AutowireCapableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="60" column="58" lean-forward="false" selection-start-line="60" selection-start-column="58" selection-end-line="60" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/mavon/repository/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE.jar!/org/springframework/beans/factory/BeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="9" column="47" lean-forward="false" selection-start-line="9" selection-start-column="47" selection-end-line="9" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/mavon/repository/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/ListableBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="56" column="48" lean-forward="false" selection-start-line="56" selection-start-column="48" selection-end-line="56" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/mavon/repository/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/xml/XmlBeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="54" column="13" lean-forward="false" selection-start-line="54" selection-start-column="13" selection-end-line="54" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/mavon/repository/org/springframework/spring-beans/4.3.10.RELEASE/spring-beans-4.3.10.RELEASE-sources.jar!/org/springframework/beans/factory/BeanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="71">
+          <caret line="112" column="41" lean-forward="false" selection-start-line="112" selection-start-column="41" selection-end-line="112" selection-end-column="41" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/mavon/repository/org/springframework/spring-core/4.3.10.RELEASE/spring-core-4.3.10.RELEASE-sources.jar!/org/springframework/core/io/ClassPathResource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="42" column="30" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="30" />
+          <folding>
+            <element signature="e#2112#2113#0" expanded="false" />
+            <element signature="e#2149#2150#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://E:/JDK/src.zip!/javax/annotation/Resource.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="93" column="29" lean-forward="false" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_03/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="18" lean-forward="false" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+          <folding>
+            <element signature="e#283#284#0" expanded="false" />
+            <element signature="e#311#312#0" expanded="false" />
+            <element signature="e#353#354#0" expanded="false" />
+            <element signature="e#387#388#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_03/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="15" column="32" lean-forward="false" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="e#395#396#0" expanded="true" />
+            <element signature="e#422#423#0" expanded="true" />
+            <element signature="e#462#463#0" expanded="true" />
+            <element signature="e#494#495#0" expanded="true" />
+            <element signature="e#521#522#0" expanded="true" />
+            <element signature="e#547#548#0" expanded="true" />
+            <element signature="e#582#583#0" expanded="true" />
+            <element signature="e#612#613#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#665#666#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/java/cn/happy/spring_02/MyCollection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="9" column="30" lean-forward="true" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_01.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="33" column="0" lean-forward="true" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_02.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-825">
+          <caret line="15" column="51" lean-forward="false" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/main/resources/applicationContext_03.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/java/cn/happy/spring1007_03/MyAspectj.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="e#81#82#0" expanded="false" />
+            <element signature="e#134#135#0" expanded="false" />
+            <element signature="e#159#160#0" expanded="false" />
+            <element signature="e#212#213#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAuthother/src/main/resources/applicationContext1007_03.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="23" column="8" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MyAOP/src/test/cn/happy/test/Test2017年10月7日14点16分_01.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="23" column="5" lean-forward="false" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>01SpringBeans:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>MyAuthother</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: aspectj:aspectjrt:1.5.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

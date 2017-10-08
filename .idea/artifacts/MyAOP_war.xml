@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyAOP:war">
+    <output-path>$PROJECT_DIR$/MyAOP/target</output-path>
+    <root id="archive" name="MySpring.war">
+      <element id="artifact" artifact-name="MyAOP:war exploded" />
+    </root>
+  </artifact>
+</component>

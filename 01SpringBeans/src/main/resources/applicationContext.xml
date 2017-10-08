@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+">
+
+
+    <!--01.dao--><!--单利-->
+    <bean id="dao" class="cn.happy.spring0930.dao.UserDaoImpl" scope="prototype" >
+    </bean>
+    <!--02.service-->
+    <bean id="service" class="cn.happy.spring0930.service.UserServiceImpl">
+        <property name="dao" ref="dao"></property>
+    </bean>
+    <!--03.通知 advice-->
+    <bean id="beforeAdvice" class="cn.happy.spring0930.aop.LoggerBeforeAdvice"></bean>
+    <!--04.切面  注意：导入aop命名空间-->
+    <aop:config>
+        <!--01.切点--><!--expression表达式-->
+        <aop:pointcut id="mypointcut" expression="execution(public void save2(cn.happy.spring0930.entity.User))"></aop:pointcut>
+        <!--织入-->
+        <aop:advisor advice-ref="beforeAdvice" pointcut-ref="mypointcut"></aop:advisor>
+    </aop:config>
+</beans>

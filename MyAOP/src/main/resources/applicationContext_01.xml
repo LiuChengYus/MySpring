@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+          http://www.springframework.org/schema/context  http://www.springframework.org/schema/context/spring-context.xsd
+">
+
+    <!--目标对象-->
+    <bean id="someDao" class="cn.happy.spring_01.SomeDAOImpl"></bean>
+
+    <bean id="someService" class="cn.happy.spring_01.SomeServiceImpl">
+        <property name="dao" ref="someDao"></property>
+    </bean>
+  <!--增强-->
+    <bean id="beforeAdvvice" class="cn.happy.spring_01.MyBeforeAdvice"></bean>
+    <!--增强-->
+    <bean id="afterAdvice" class="cn.happy.spring_01.MyAfterAdvice"></bean>
+    <!--切点-->
+    <aop:config>
+        <aop:pointcut id="mypointcut" expression="execution(* *..spring_01.*.*(..))"></aop:pointcut>
+        <aop:advisor advice-ref="beforeAdvvice" pointcut-ref="mypointcut" ></aop:advisor>
+        <aop:advisor advice-ref="afterAdvice" pointcut-ref="mypointcut" ></aop:advisor>
+    </aop:config>
+</beans>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

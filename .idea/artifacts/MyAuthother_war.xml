@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="MyAuthother:war">
+    <output-path>$PROJECT_DIR$/MyAuthother/target</output-path>
+    <root id="archive" name="MySpring.war">
+      <element id="artifact" artifact-name="MyAuthother:war exploded" />
+    </root>
+  </artifact>
+</component>

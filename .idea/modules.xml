@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/01SpringBeans/01SpringBeans.iml" filepath="$PROJECT_DIR$/01SpringBeans/01SpringBeans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAOP/MyAOP.iml" filepath="$PROJECT_DIR$/MyAOP/MyAOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAjax/MyAjax.iml" filepath="$PROJECT_DIR$/MyAjax/MyAjax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyAuthother/MyAuthother.iml" filepath="$PROJECT_DIR$/MyAuthother/MyAuthother.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MySpring.iml" filepath="$PROJECT_DIR$/MySpring.iml" />
+    </modules>
+  </component>
+</project>

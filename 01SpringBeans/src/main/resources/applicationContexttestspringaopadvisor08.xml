@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+          http://www.springframework.org/schema/context  http://www.springframework.org/schema/context/spring-context.xsd
+">
+
+    <!--01.目标对象-->
+    <bean id="someService" class="cn.happy.spring1006aopadvisor_08.SomeService"></bean>
+    <!--02.增强 通知-->
+    <bean id="beforeAdvice" class="cn.happy.spring1006aopadvisor_08.MybeforeAdvice"></bean>
+    <bean id="afterAdvice" class="cn.happy.spring1006aopadvisor_08.MyAfterReturningAdvice"></bean>
+
+    <!--03.BeanName自动代理-->
+    <bean class="org.springframework.aop.framework.autoproxy.BeanNameAutoProxyCreator">
+       <property name="beanNames" value="someService"></property>
+        <property name="interceptorNames" value="beforeAdvice,afterAdvice"></property>
+    </bean>
+
+</beans>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

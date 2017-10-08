@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+">
+
+      <!--设值入住-->
+    <bean id="car" class="cn.happy.spring0930_01.Car">
+        <property name="blank" value="小汽车"></property>
+        <property name="color" value="红颜色"></property>
+     </bean>
+
+    <bean id="stu" class="cn.happy.spring0930_01.Student">
+        <property name="name" value="小贱贱"></property>
+        <property name="age" value="18"></property>
+        <property name="car" ref="car"></property>
+    </bean>
+    <!--构造入住-->
+    <bean  id="xx" class="cn.happy.spring0930_01.Student">
+        <constructor-arg index="0" value="小贱贱" > </constructor-arg>
+        <!--<constructor-arg name="name" value="小贱贱" > </constructor-arg>--><!--这种方法可行-->
+        <constructor-arg index="1" value="18" > </constructor-arg>
+        <constructor-arg index="2" ref="car" > </constructor-arg>
+    </bean>
+    <!--p命名空间入住-->
+     <bean id="pid" class="cn.happy.spring0930_01.Student" p:name="小贱贱" p:age="17" p:car-ref="car"></bean>
+</beans>

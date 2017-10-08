@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:p="http://www.springframework.org/schema/p"
+       xmlns:aop="http://www.springframework.org/schema/aop"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="
+        http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd
+         http://www.springframework.org/schema/aop http://www.springframework.org/schema/aop/spring-aop.xsd
+">
+
+    <!--集合之array-->
+    <bean id="array" class="cn.happy.spring0930_01.MyCollection">
+        <property name="array">
+            <array>
+                <value>小贱贱1</value>
+                <value>小贱贱2</value>
+                <value>小贱贱3</value>
+                <value>小贱贱4</value>
+            </array>
+        </property>
+    </bean>
+    <!--集合之list-->
+    <bean id="list" class="cn.happy.spring0930_01.MyCollection">
+        <property name="list">
+            <list>
+                <value>小贱贱1</value>
+                <value>小贱贱2</value>
+                <value>小贱贱3</value>
+                <value>小贱贱4</value>
+            </list>
+        </property>
+    </bean>
+    <!--集合之Set-->
+    <bean id="set" class="cn.happy.spring0930_01.MyCollection">
+        <property name="set">
+            <set>
+                <value>小贱贱1</value>
+                <value>小贱贱2</value>
+                <value>小贱贱3</value>
+                <value>小贱贱4</value>
+            </set>
+        </property>
+    </bean>
+    <!--集合之map-->
+    <bean id="map" class="cn.happy.spring0930_01.MyCollection">
+        <property name="map">
+            <map>
+               <!--map中每一项都是entity=key+valye-->
+                <entry key="001" value="小贱贱贱"></entry>
+                <entry key="002" value="小贱贱啊"></entry>
+                <entry key="003">
+                    <value>削减加上你的</value>
+                </entry>
+            </map>
+        </property>
+    </bean>
+    <!--集合之properties-->
+    <bean id="properties" class="cn.happy.spring0930_01.MyCollection">
+        <property name="properties">
+          <props>
+              <prop key="001">小贱贱a</prop>
+              <prop key="002">小红</prop>
+              <prop key="003">小明</prop>
+          </props>
+        </property>
+    </bean>
+</beans>
